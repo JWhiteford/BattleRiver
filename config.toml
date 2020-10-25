@@ -30,7 +30,7 @@ logo = "images/Battle-River-Overhead-Doors-logo.svg"
 code = "en"
 
 # meta data
-author = "jere.me"
+author = ""
 description = ""
 
 # Gestion des langues : FR / EN / NL / DE
@@ -42,7 +42,7 @@ dateFormat = "January 2, 2006"
 logo = "images/Battle-River-Overhead-Doors-logo.svg"
 menufixed = true
 
-footerDescription = "Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
+footerDescription = "We're a family run business that's been operating for X years. We proudly serve Camrose, Wetaskiwin, Battle River and Beyond."
 footerServiceTitle = "Service"
 footerQuicklinkTitle = "Quicklinks"
 footerAboutTitle = "About"
@@ -52,7 +52,7 @@ footerSubscribeTitle = "Subscribe"
 # cookies
 [params.cookies]
 enable = true
-expire_days = 2
+expire_days = 14
 
 # Hero Area Section
 [Languages.en.params.hero]
@@ -61,38 +61,38 @@ heading = "Overhead Doors are our business."
 description = "We specialize in installation and service of commercial and residential overhead doors."
 button  = true
 btnText = "Get in touch"
-btnURL  = "contact"
+btnURL  = "/contact"
 videoThumb = "images/slider/video-player-thumb.jpg"
-videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
+videoURL   = "https://www.youtube.com/embed/87ht5wtn8u4"
 
 # About 2 Section
 [Languages.en.params.aboutSm]
 enable  = true
-title   = "We have explored the digital landscape with passion for a long time"
+title   = "We have X years of experience and a passion for quality work"
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
 
 # Blog Section On Homepage
 [Languages.en.params.blog]
 enable  = true
 topTitle= "OUR UNTOLD STORY"
-title   = "Blog."
+title   = "All about Overhead Doors"
 subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
 
 # Contact Section
 [Languages.en.params.contact]
 enable  = true
-topTitle= "DROP US A NOTE"
+topTitle= "SEND US A MESSAGE"
 title   = "Contact Us."
-subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-address = "14/05, Stockhome <br> Victori Palace , United States"
-phone   = "(03) 9283 2617"
-fax     = "+61 3827 3590"
+subtitle= "We're happy to hear from you! Call us to chat or send us an email if you're feeling shy."
+address = " RR # 1 Edberg AB, Canada"
+phone   = "780 608 9790"
+# fax     = "+61 3827 3590"
 facebook= "https://www.facebook.com/"
-twitter = "https://twitter.com/"
-linkedin= "https://www.linkedin.com/"
-dribbble= "https://dribbble.com/"
-instagram= "https://www.instagram.com/"
-mapLatitude = "51.507351"
+# twitter = "https://twitter.com/"
+# linkedin= "https://www.linkedin.com/"
+# dribbble= "https://dribbble.com/"
+# instagram= "https://www.instagram.com/"
+# mapLatitude = "51.507351"
 mapLongitude= "-0.127758"
 mapMarker   = "images/marker.png"
 
