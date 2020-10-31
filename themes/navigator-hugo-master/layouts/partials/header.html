@@ -9,9 +9,11 @@
             <div class="col-md-12">
                 <nav class="navbar navbar-expand-md">
                     <a class="navbar-brand" href="{{ .Site.BaseURL }}">
-
+                        <img src="{{ .Site.Params.logo  | absURL }}" height="50"  alt="{{ .Site.Title }}">
                         <!-- <img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}"> -->
-                        <object type="image/svg+xml" data="{{ .Site.Params.logo | absURL }}" style="width: 10rem;"></object>
+                        <!-- <object type="image/svg+xml" data="{{ .Site.Params.logo | absURL }}" style="width: 10rem;">
+                            <img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}">
+                        </object> -->
                     </a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
                         aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
