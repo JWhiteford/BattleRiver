@@ -69,7 +69,7 @@ videoURL   = "https://www.youtube.com/embed/87ht5wtn8u4"
 [Languages.en.params.aboutSm]
 enable  = true
 title   = "We have X years of experience and a passion for quality work"
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+description = "Possibly write a bit of content about the company and services so the visitor gets a quick rundown of the company to make them feel like they know you and you're safe to hire. A couple sentences is fine, don't want to overwhelm the visitors."
 
 # Blog Section On Homepage
 [Languages.en.params.blog]
