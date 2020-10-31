@@ -1,16 +1,22 @@
 enable  : true
 item  :
-  - icon  : tf-ion-ios-copy-outline
-    title : WordPress Theme
+  - icon  : tf-ion-ios-cog-outline
+    title : Services we provide
+    linkURL: /service
+    linkName: Read here
     description : >
       Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
 
-  - icon  : tf-ion-ios-alarm-outline
-    title : Responsive Design
+  - icon  : tf-pictures
+    title : View our work
+    linkURL: /portfolio
+    linkName: See now
     description : >
       Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
 
-  - icon  : tf-ion-ios-book-outline
-    title : Media & Advertisement
+  - icon  : tf-ion-ios-pricetags-outline
+    title : Get a quote
+    linkURL: /contact
+    linkName: Contact us
     description : >
       Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
