@@ -2,7 +2,7 @@ baseURL = "https://www.battleriveroverheaddoors.ca/"
 languageCode = "en-us"
 title = "Battle River Overhead Doors"
 
-theme ="navigator-hugo"
+theme ="navigator-hugo-master"
 
 summaryLength = 10
 
