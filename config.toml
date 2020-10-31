@@ -109,26 +109,26 @@ btnText = "Contact Us"
 # Site Menus
 [menu]
 # Navbar Menus
-[[menu.nav]]
-name    = "about"
-url     = "about"
-weight  = 2
+# [[menu.nav]]
+# name    = "about"
+# url     = "about"
+# weight  = 2
 [[menu.nav]]
 name    = "service"
 url     = "service"
-weight  = 3
+weight  = 1
 [[menu.nav]]
-name    = "portfolio"
+name    = "gallery"
 url     = "portfolio"
-weight  = 4
-[[menu.nav]]
-name    = "blog"
-url     = "blog"
-weight  = 5
+weight  = 2
 [[menu.nav]]
 name    = "contact"
 url     = "contact"
-weight  = 6
+weight  = 3
+# [[menu.nav]]
+# name    = "blog"
+# url     = "blog"
+# weight  = 5
 
 # Footer Service Menu
 [[menu.service]]

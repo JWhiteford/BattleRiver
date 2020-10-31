@@ -1,11 +1,11 @@
-[about]
-other = "About"
+# [about]
+# other = "About"
 [service]
 other = "Service"
-[portfolio]
-other = "Portfolio"
-[blog]
-other = "Blog"
+[gallery]
+other = "Gallery"
+# [blog]
+# other = "Blog"
 [contact]
 other = "Contact"
 
