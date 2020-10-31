@@ -4,39 +4,39 @@ title   : WORK SHOWCASE.
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
 
 filtermenu :
-  - name      : Photography
-    category  : photography
+  - name      : Doors
+    category  : doors
 
-  - name      : Ios App
-    category  : ios
+  - name      : Residential
+    category  : residential
 
-  - name      : Development
-    category  : development
+  - name      : Commercial
+    category  : commercial
 
-  - name      : Design
-    category  : design
+  # - name      : Design
+  #   category  : design
 
 item   :
-  - title : AirBnB Postcard
-    image : images/portfolio/portfolio-1.jpg
-    category  : photography
+  - title : Door 1
+    image : http://placeimg.com/840/480/arch/grayscale
+    category  : doors
 
-  - title : D Design
-    image : images/portfolio/portfolio-2.jpg
-    category  : ios, design
+  - title : Door 2
+    image : http://placeimg.com/840/480/tech/grayscale
+    category  : doors, commercial
 
-  - title : Xbox 360
-    image : images/portfolio/portfolio-3.jpg
-    category  : photography, development
+  - title : Door 3
+    image : http://placeimg.com/840/480/nature/grayscale
+    category  : doors, commercial
 
-  - title : Ballon Card
-    image : images/portfolio/portfolio-4.jpg
-    category  : ios
+  - title : Door 4
+    image : http://placeimg.com/840/480/animals/grayscale
+    category  : residential
 
-  - title : Ready Toons
-    image : images/portfolio/portfolio-5.jpg
-    category  : design
+  - title : Door 5
+    image : http://placeimg.com/840/480/people/grayscale
+    category  : residential, commercial
 
-  - title : Illustration
-    image : images/portfolio/portfolio-6.jpg
-    category  : development
+  - title : Door 6
+    image : http://placeimg.com/840/480/arch/grayscale
+    category  : doors
