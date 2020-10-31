@@ -3,26 +3,26 @@ topTitle  : A LIST OF SERVICES
 title     : Our Service.
 subtitle  : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
 item      :
-  - icon  : tf-ion-ios-copy-outline
-    title : Branding
+  - icon  : tf-tools-2
+    title : Repairs
     list  :
-      - name : Brand Strategy
-      - name : Advertising / Campaigns
-      - name : Product Design
-      - name : Video / Photography
+      - name : broken door
+      - name : service name
+      - name : service name
+      - name : service name
 
-  - icon  : tf-ion-ios-alarm-outline
-    title : Branding
+  - icon  : tf-toolbox
+    title : Installation
     list  :
-      - name : Web Design
-      - name : E- Commerce Site Design
-      - name : App Development
-      - name : Mobile UI Design
+      - name : home
+      - name : commercial
+      - name : service name
+      - name : service name
 
-  - icon  : tf-ion-ios-book-outline
-    title : IOS App Development
+  - icon  : tf-lock2
+    title : Adjustments
     list  :
-      - name : Game Development
-      - name : Game Design
-      - name : Social Media Marketing
-      - name : Mobile UI Design
+      - name : Locked doors
+      - name : Non-closing doors
+      - name : service name
+      - name : service name
