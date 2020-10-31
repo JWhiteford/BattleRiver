@@ -1244,7 +1244,8 @@ a:focus, a:hover {
 }
 
 .service-list .block {
-  background: #f0326b;
+  background: lightslategray;
+  background-image: linear-gradient(23deg,#222,#1f2532);
   color: #fff;
   padding: 30px;
 }
