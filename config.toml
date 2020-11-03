@@ -43,8 +43,8 @@ logo = "images/Battle-River-Overhead-Doors-logo.svg"
 menufixed = true
 
 footerDescription = "We're a family run business that's been operating for X years. We proudly serve Camrose, Wetaskiwin, Battle River and Beyond."
-footerServiceTitle = "Service"
-footerQuicklinkTitle = "Quicklinks"
+# footerServiceTitle = "Service"
+# footerQuicklinkTitle = "Quicklinks"
 footerAboutTitle = "About"
 footerSubscribeTitle = "Subscribe"
 
@@ -69,7 +69,7 @@ videoURL   = "https://www.youtube.com/embed/87ht5wtn8u4"
 [Languages.en.params.aboutSm]
 enable  = true
 title   = "We have X years of experience and a passion for quality work"
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+description = "Possibly write a bit of content about the company and services so the visitor gets a quick rundown of the company to make them feel like they know you and you're safe to hire. A couple sentences is fine, don't want to overwhelm the visitors."
 
 # Blog Section On Homepage
 [Languages.en.params.blog]
@@ -85,7 +85,7 @@ topTitle= "SEND US A MESSAGE"
 title   = "Contact Us."
 subtitle= "We're happy to hear from you! Call us to chat or send us an email if you're feeling shy."
 address = " RR # 1 Edberg AB, Canada"
-phone   = "780 608 9790"
+phone   = "780-608-9790"
 # fax     = "+61 3827 3590"
 facebook= "https://www.facebook.com/"
 # twitter = "https://twitter.com/"
@@ -145,19 +145,19 @@ url     = "service"
 weight  = 3
 
 # Footer Quick links Menu
-[[menu.quicklink]]
-name    = "partners"
-url     = "about"
-weight  = 1
-[[menu.quicklink]]
-name    = "about"
-url     = "about"
-weight  = 2
-[[menu.quicklink]]
-name    = "faqs"
-url     = "about"
-weight  = 3
-[[menu.quicklink]]
-name    = "badges"
-url     = "about"
-weight  = 4
+# [[menu.quicklink]]
+# name    = "partners"
+# url     = "about"
+# weight  = 1
+# [[menu.quicklink]]
+# name    = "about"
+# url     = "about"
+# weight  = 2
+# [[menu.quicklink]]
+# name    = "faqs"
+# url     = "about"
+# weight  = 3
+# [[menu.quicklink]]
+# name    = "badges"
+# url     = "about"
+# weight  = 4

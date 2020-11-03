@@ -9,16 +9,16 @@ other = "Gallery"
 [contact]
 other = "Contact"
 
-[graphicdesign]
-other = "Graphic Design"
-[webdesign]
-other = "Web Design"
-[webdevelopment]
-other = "Web Development"
+# [graphicdesign]
+# other = "Graphic Design"
+# [webdesign]
+# other = "Web Design"
+# [webdevelopment]
+# other = "Web Development"
 
-[partners]
-other = "Partners"
-[faqs]
-other = "FAQ's"
-[badges]
-other = "Badges"
+# [partners]
+# other = "Partners"
+# [faqs]
+# other = "FAQ's"
+# [badges]
+# other = "Badges"

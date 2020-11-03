@@ -1,28 +1,28 @@
 enable  : true
-topTitle: HOW WE WORKS
-title   : Our Work Process
+topTitle: HOW WE WORK
+title   : Our Process
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
 item    :
   - number  : 1
-    icon    : tf-ion-ios-briefcase-outline
-    title   : Project Analysis
+    icon    : tf-clipboard4
+    title   : Quote & Agreement
     description : >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
 
   - number  : 2
-    icon    : tf-ion-ios-alarm-outline
-    title   : Time Management
+    icon    : tf-tools-2
+    title   : Installiation
     description : >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
 
   - number  : 3
-    icon    : tf-ion-ios-email-outline
-    title   : Mail Support
+    icon    : tf-focus
+    title   : Training
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+      We'll train you how to use your newly installed products.
 
   - number  : 4
-    icon    : tf-ion-ios-locked-outline
+    icon    : tf-shield2
     title   : Secure System
     description : >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
