@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://jwhiteford.github.io/BattleRiver/"
 languageCode = "en-us"
 title = "Battle River Overhead Doors"
 
@@ -7,7 +7,7 @@ theme ="navigator-hugo-master"
 summaryLength = 10
 
 # Build robots.txt file
-enableRobotsTXT = true
+enableRobotsTXT = false
 # google analytics tracking id
 googleAnalytics = "" # your analitics ID
 
